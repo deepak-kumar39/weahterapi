@@ -1,0 +1,21 @@
+.cityWeather{
+    width: 40vw;
+    height: 50vh;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    margin-left: 18rem;
+    border: 2px solid green;
+    background: linear-gradient(to left , #f54345, #d2228b);
+    font-size: 1.7rem;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+
+}
+
+.temp{
+    color: black;
+}
+
