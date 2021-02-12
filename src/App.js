@@ -17,7 +17,7 @@ function App() {
       console.log("result is ", result);
     setTemp(result.main.temp);
     setMin(result.main.temp_min);
-    setMax(result.main.temp_min);
+    setMax(result.main.temp_max);
    
       // console.log(temp, "temp in app")
       // setCityWeather(result.main.temp);
