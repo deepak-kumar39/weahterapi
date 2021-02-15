@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/weahterapi/static/css/main.d7b3411e.chunk.css",
+    "main.js": "/weahterapi/static/js/main.1fa2af11.chunk.js",
+    "main.js.map": "/weahterapi/static/js/main.1fa2af11.chunk.js.map",
+    "runtime-main.js": "/weahterapi/static/js/runtime-main.6e92110b.js",
+    "runtime-main.js.map": "/weahterapi/static/js/runtime-main.6e92110b.js.map",
+    "static/css/2.150d169a.chunk.css": "/weahterapi/static/css/2.150d169a.chunk.css",
+    "static/js/2.a280659d.chunk.js": "/weahterapi/static/js/2.a280659d.chunk.js",
+    "static/js/2.a280659d.chunk.js.map": "/weahterapi/static/js/2.a280659d.chunk.js.map",
+    "static/js/3.3effd27c.chunk.js": "/weahterapi/static/js/3.3effd27c.chunk.js",
+    "static/js/3.3effd27c.chunk.js.map": "/weahterapi/static/js/3.3effd27c.chunk.js.map",
+    "index.html": "/weahterapi/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/weahterapi/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d7b3411e.chunk.css.map": "/weahterapi/static/css/main.d7b3411e.chunk.css.map",
+    "static/js/2.a280659d.chunk.js.LICENSE.txt": "/weahterapi/static/js/2.a280659d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e92110b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a280659d.chunk.js",
+    "static/css/main.d7b3411e.chunk.css",
+    "static/js/main.1fa2af11.chunk.js"
+  ]
+}
